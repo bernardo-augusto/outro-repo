@@ -1,1 +1,4 @@
 # outro-repo
+
+Bernardo
+Tiago
